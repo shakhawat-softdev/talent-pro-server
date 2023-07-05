@@ -1,0 +1,44 @@
+[
+   {
+      "id": 1,
+      "title": "Door to Door Strorage",
+      "service": "We Pick up, store & deliver",
+      "image": "https://i.ibb.co/2vVmmp0/door-to-door.png"
+   },
+   {
+      "id": 2,
+      "title": "Self Access Storege",
+      "service": "24/7 Access Secured Storage Unit",
+      "image": "https://i.ibb.co/MRr1XHJ/self-access.png"
+   },
+   {
+      "id": 3,
+      "title": "Document Storage",
+      "service": "Store offsite and manage online",
+      "image": "https://i.ibb.co/58WnGdZ/document-storage.png"
+   },
+   {
+      "id": 4,
+      "title": "Marketing Merchandise",
+      "service": "Send swags to us and click for returns",
+      "image": "https://i.ibb.co/9HGZS9Q/marketing-merchandise.png"
+   },
+   {
+      "id": 5,
+      "title": "Retail and e-Commerce",
+      "service": "We'll receive, store, pick, pack and ship",
+      "image": "https://i.ibb.co/5RGj3Kb/retail-ecommerce.png"
+   },
+   {
+      "id": 6,
+      "title": "Co-Working and Co-Warehousing",
+      "service": "Work, store, operate and ship all in one place",
+      "image": "https://i.ibb.co/ScmSj57/spacelabs.png"
+   },
+   {
+      "id": 7,
+      "title": "Office With Storage",
+      "service": "Office space with storage space",
+      "image": "https://i.ibb.co/DkscJCs/office-with-storage.png"
+   }
+]
